@@ -58,8 +58,8 @@ function draw() {
    {
       //write a condition for infinte scrolling tower
     }
-  
-    spawnDoors();
+      spawnDoors();
+
   
       //write a code to make climbersGroup collide with ghost change the ghost velocity  
 //write a code to make invisibleBlockGroup collide with ghost destroy the ghost and make gamestate to end.
@@ -74,7 +74,8 @@ function draw() {
   }
 }
 
-function spawnDoors() {
+function spawnDoors()
+ {
   //write code here to spawn the clouds
   if (frameCount % 240 === 0) {
     var door = createSprite(200, -50);
