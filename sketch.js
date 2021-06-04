@@ -37,14 +37,22 @@ function draw() {
   
   if (gameState === "play") {
     
-    
+    if(keyDown("")){
+  
       // write a code to move left when left arrow is pressed
+    }
+    if(keyDown("")){
+  
     
       // write a code to move left when right arrow is pressed
+      
+    }
+    if(keyDown("")){
+  
    
       // write a code to move up when space arrow is pressed
       
-   
+    }
   
   ghost.velocityY = ghost.velocityY + 0.8;
   
