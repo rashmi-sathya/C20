@@ -57,7 +57,7 @@ function draw() {
    
       //write a condition for infinte scrolling tower
     
-      spawnDoors();
+    //  spawnDoors();
 
   
       //write a code to make climbersGroup collide with ghost change the ghost velocity  
