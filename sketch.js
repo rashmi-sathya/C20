@@ -96,12 +96,10 @@ function spawnClouds() {
      
 
     
-    //assign lifetime to the obstacle           
-    obstacle.lifetime = 300;//change obstacle as door similarly add for climber and invisible block
+    //assign lifetime to the obstacle.lifetime = 300; here  obstacle are door, climber and invisible block
 
 
-    //add each obstacle to the group
-    obstaclesGroup.add(obstacle);//chaange obstacles as door similarly add for climber and invisible block
+    //add each obstacle to the group obstaclesGroup.add(obstacle);here  obstacle are door, climber and invisible block
   }
 }
 
