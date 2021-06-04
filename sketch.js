@@ -55,7 +55,8 @@ function draw() {
   ghost.velocityY = ghost.velocityY + 0.8
   
     if ()
-    {//write a condition for infinte scrolling tower
+    {
+      //write a condition for infinte scrolling tower
     }
   
     spawnDoors();
