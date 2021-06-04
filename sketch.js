@@ -52,7 +52,7 @@ function draw() {
       
     }
   
-  ghost.velocityY = ghost.velocityY + 0.8
+  ghost.velocityY = ghost.velocityY + 0.8;
   
     if()
     {
