@@ -74,7 +74,7 @@ function draw() {
   }
 }
 
-function spawnClouds() {
+function spawnDoors() {
   //write code here to spawn the clouds
   if (frameCount % 240 === 0) {
     var door = createSprite(200, -50);
