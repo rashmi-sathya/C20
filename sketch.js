@@ -54,7 +54,7 @@ function draw() {
   
   ghost.velocityY = ghost.velocityY + 0.8;
   
-    if()
+    //if()
     {
       //write a condition for infinte scrolling tower
     }
